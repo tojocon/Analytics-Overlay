@@ -1,0 +1,2 @@
+# Analytics-Overlay
+ The Analytics Transparent Overlay is a Windows program that displays a your given data on a timeline against any chart or graph via a transparent window. It's like having an extra dimension of information in any report. A common usage is to put changes to your website into a spreadsheet and then have Analytics Overly display that over your Google analytics report as shown in the screenshots.
